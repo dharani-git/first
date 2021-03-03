@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Dharani
+Build-Jdk: 15.0.1
+Implementation-Title: spring-boot-restful-web-services-example
+Implementation-Version: 1.0.0
+Implementation-Vendor-Id: com.javabycode.springboot
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-re
+ stful-web-services-example/
+Created-By: Maven Integration for Eclipse
+
